@@ -1,0 +1,8 @@
+BSZ = "batch_size"
+LR = "learning_rate"
+INDIM = "input_dim"
+HIDSIZE = "hidden_size"
+NUM_BITS = "num_bits"
+NUM_TRN = "num_trn"
+NUM_TST = "num_tst"
+NUM_EPOCHS = "num_epochs"
